@@ -1,0 +1,11 @@
+{
+  "name": "js-express-demo",
+  "version": "1.0.0",
+  "description": "express 练习项目，学习使用 js搭建后端服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
